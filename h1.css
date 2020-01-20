@@ -1,0 +1,8 @@
+#item:hover{
+	color:green;
+	transition:0.5s;
+}
+
+.thumbnail{
+	border-radius:0;
+}
